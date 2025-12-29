@@ -1,5 +1,5 @@
 # 💫 About Me:
-High school student and programmer with a strong interest in robotics, control systems, and machine learning. Experienced with C/C++, Python, MATLAB, and PyTorch, with hands-on work in robotic kinematics, trajectory planning, and deep learning (CNNs, ResNet). Founder of a school AI club and passionate about building reliable, well-documented systems that bridge theory and real-world applications.
+Software enginnering student at the University of Waterloo with a strong interest in robotics, control systems, and machine learning. Experienced with C/C++, Python, MATLAB, and PyTorch, with hands-on work in robotic kinematics, trajectory planning, and deep learning (CNNs, ResNet). Founder of a school AI club and passionate about building reliable, well-documented systems that bridge theory and real-world applications.
 
 
 ## 🌐 Socials:
